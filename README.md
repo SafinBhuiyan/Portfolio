@@ -19,6 +19,7 @@ This portfolio highlights my skills, experiences, and projects in product design
 - **Responsive Design**
 - **Project Showcases**
 - **Interactive Elements**
+- **Google Map Embeded**
 - **Contact Form**
 
 ## Technologies Used
